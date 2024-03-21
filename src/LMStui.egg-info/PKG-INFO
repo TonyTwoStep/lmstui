@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: LMStui
+Version: 0.0.1
+Summary: LMS TUI Remote
+Home-page: https://www.nexus0.net/pub/sw/lmstui
+Author: R.S.U.
+License: GPL v3
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.4.0

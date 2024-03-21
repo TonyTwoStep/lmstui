@@ -1,0 +1,17 @@
+[lms]
+server = 
+port = 9000
+# default player id (format: xx:xx:xx:xx:xx:xx)
+player = 
+
+[app]
+# app queries server every # seconds
+pollinterval = 2
+# +/- adjusts volume by
+voladjust = 2
+# app color theme: default green monochrome bright tlj256 darkgrey darkblue darkturq
+theme = default
+# <pg up>/<pd down> skips # songs
+skipsongs = 4
+# display image mode: asciimatics chafa none
+imagemode = asciimatics
